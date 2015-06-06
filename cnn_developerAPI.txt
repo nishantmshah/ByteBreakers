@@ -4,7 +4,7 @@ https://embedkit.com/embed/cnn/jquery/
 EmbedKit offers a suite of developer APIs and libraries to help you embed content from media providers into your own websites and apps. Using our API for CNN is the perfect way to provide your users with a more engaging experience!
 Getting Started With A jQuery API For CNN
 
-secret= s_55731b092b26955731b092b2e755731b092b36b
+SECRET = s_55731b092b26955731b092b2e755731b092b36b
 
 # Embed
 curl --data "api_key=SECRET&url=cnn.com" https://embedkit.com/api/v1/embed
@@ -18,7 +18,7 @@ curl --data "api_key=SECRET&url=cnn.com" https://embedkit.com/api/v1/extract
 Then, place the following function in your body towards the bottom!
 <script type="text/javascript">
 // Set your API key and URL
-var api_key = "SECRECT",
+var api_key = "SECRET",
     url = "google.com";
   
 // Be sure to look at the console for other link properties you can use!
