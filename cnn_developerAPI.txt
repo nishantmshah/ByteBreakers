@@ -1,3 +1,6 @@
+
+https://embedkit.com/embed/cnn/jquery/
+
 EmbedKit offers a suite of developer APIs and libraries to help you embed content from media providers into your own websites and apps. Using our API for CNN is the perfect way to provide your users with a more engaging experience!
 Getting Started With A jQuery API For CNN
 
